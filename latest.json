@@ -1,11 +1,15 @@
 {
-  "version": "1.0.2",
-  "notes": "Suvidha Diagnostics 1.0.2",
-  "pub_date": "2026-10-03T14:00:13.478Z",
+  "version": "1.0.3",
+  "notes": "Suvidha Diagnostics 1.0.3",
+  "pub_date": "2026-10-03T14:49:36.906Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprellURFdZamZOM0tYL2VrcmdRV2dmVEI4a3p5akZpc1hBeXFGc2ViQXlrYTFPZnc0Smg5c1FHOERtcW1oRXIwUUFOdk5PTTUzLzY5ZGNRek9xS1ExelFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM1OTkzCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKK0cwZkk5d3FOaUdjUngzeGUvc3pHRTVvOHNTaTNJbENTeE01eWZtNzJONC94L1ZGaFRubjA1cXZHM1hYOVczZHhTU3A5eFFjSU9wQ21NcHRNb3F6QVE9PQo=",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.2/suvidha-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelNlUjFvRzJXSXViMW40UTBCcVZ4dnVETlFUTy90MDlEN3pBVE1LVHVpOE5zVmpSZmlRSUEyTERXaXVMRENrN0ZwQTNNWjN1R2Zza2hkczdwVmRFNGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM4OTQzCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMKWWhFSGI5aFpGZXk3TlNpcmpSRWE0NktjNndobEFRaWZuUGVwaVdrTXl5WWloOXgwMXlVN3NiZDVYeEVXWkFCZlg0OEsrWmUvY2tVeDBleWxlSHVORGc9PQo=",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.3/suvidha-windows-x64-setup.exe"
+    },
+    "windows-verification-tampered-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelNlUjFvRzJXSXViMW40UTBCcVZ4dnVETlFUTy90MDlEN3pBVE1LVHVpOE5zVmpSZmlRSUEyTERXaXVMRENrN0ZwQTNNWjN1R2Zza2hkczdwVmRFNGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM4OTQzCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMKWWhFSGI5aFpGZXk3TlNpcmpSRWE0NktjNndobEFRaWZuUGVwaVdrTXl5WWloOXgwMXlVN3NiZDVYeEVXWkFCZlg0OEsrWmUvY2tVeDBleWxlSHVORGc9PQo=",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/verification/tampered-setup.exe"
     }
   }
 }
