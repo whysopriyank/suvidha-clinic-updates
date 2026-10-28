@@ -6,10 +6,6 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprellXV0xWZjR2M1dDTmNyUzlaUG44Z2pZeldIcWJwd25oTG9HQk1CQlNPcjM2Qk0rTURMZnZDdWRrUkJ6MjNJOGdzYnZlRmM2cjVRN090VjBPT3lFcGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTU0NjMxCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuMjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yNwp2OXVwQ2swU1ZBaTVCdS9JZjNtSGJlR2xHVTd3dTArSFg5Z012RmlqbUhFZEVKZEJvYUdvci9UaGJ2dVNvS2hZUThTS0VMUmhhcW5YenBtb2RuOXFBdz09Cg==",
       "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.27/suvidha-windows-x64-setup.exe"
-    },
-    "windows-verification-tampered-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprellXV0xWZjR2M1dDTmNyUzlaUG44Z2pZeldIcWJwd25oTG9HQk1CQlNPcjM2Qk0rTURMZnZDdWRrUkJ6MjNJOGdzYnZlRmM2cjVRN090VjBPT3lFcGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTU0NjMxCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuMjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4yNwp2OXVwQ2swU1ZBaTVCdS9JZjNtSGJlR2xHVTd3dTArSFg5Z012RmlqbUhFZEVKZEJvYUdvci9UaGJ2dVNvS2hZUThTS0VMUmhhcW5YenBtb2RuOXFBdz09Cg==",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/verification/tampered-setup.exe"
     }
   }
 }
