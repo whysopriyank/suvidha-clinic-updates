@@ -18,10 +18,6 @@
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelFETnVQaTlsSWF0MDR4TklCUC9hUmNlN3pENm1KcFFiYWFRYVFOQjhTMElLY1gzSWg5UHV2bkpsZG41WlVNeFM3MzlBQ2REL1hKeThsWXZ3MXVIWVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjMwMDU2CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuMzVfYW1kNjQuQXBwSW1hZ2UKSGVMUmJGYmFadUdkYnhhQTlsREtySDhvZzQzUUtLL0N6c0ZKOGNhbHJWL09mcE14bjVwRWk0Nm53d0NkSGZIMWJjT0hWbnRFMlV3b25XSHFtbEVSQWc9PQo=",
       "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.35/suvidha-linux-x86_64.AppImage"
-    },
-    "windows-verification-tampered-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelp3ek9mOU1lbEluY0tBYkk4RGdvTU0vVjhXUDJUODJ1bk9aM0ZJRnkrQVJsSk4wcHk5UHhFZDNxbnFsZ1BJcXhldEZIWWt6Wll1Szd0cEkvNUF2dXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI5Nzc4CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuMzVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4zNQpyMFdKK0ZORGFUcW1MbVVSekNHakVNakZ6VXZNZGVUUGNjelgybDFtNHN6Wjg4VjZyOUVoMmQ4L1NkbEZqM1lNOW4rTEZ6cmNYZnhKeTk5RVVpV2ZDdz09Cg==",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/verification/tampered-setup.exe"
     }
   }
 }
