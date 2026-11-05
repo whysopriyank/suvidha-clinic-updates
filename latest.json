@@ -1,11 +1,15 @@
 {
-  "version": "1.0.40",
-  "notes": "Suvidha Diagnostics 1.0.40",
-  "pub_date": "2026-11-05T12:39:17.521Z",
+  "version": "1.0.42",
+  "notes": "Suvidha Diagnostics 1.0.42",
+  "pub_date": "2026-11-05T13:17:04.693Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremNNNVYvQmNTY3BGblc0clMvM05tY0RoTDBEWkJ5VHRSQ1lxbkFUVmFSUkFzZExsMUE3QVp0ZFViSDVFSG5YSnpxTXVVTitiOEd3UWNBamFLZ0dYMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODgyMjkxCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNDBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC40MApmcTBGUFlWOGpNWkFvSjBrR096YTdMZDRYbjR5R1RRQmFFUDJoUzM1a1ZaN3Aza0owUXlyTnRTM0Q1ODNpamNqRGF5UjBKMmtyNUpzMDFpK0JTQklBdz09Cg==",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.40/suvidha-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelRHMUFiK0NFUWdxWCtLN2NqSHhOeGl2UFo1TXlYaWY0YW1kZ0lEOXVnNzFYRmd1aXVVY2E4SXV1UTl5ZTh6Qm9rbUdkS0prMTRvc3l1STVsMWhWS1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg0NTUyCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNDJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC40MgpNaGFjSFQyOTl5VlozaEppbzJOdFh5bFRTNzJTaXM5STY0QzZVbERxeHlYS3RHbU5nY1U5YTJTZUFkdlpXZk8xZUV4aG5MTDh0Q1F4MjVqZktXL2lBUT09Cg==",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.42/suvidha-windows-x64-setup.exe"
+    },
+    "windows-verification-tampered-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelRHMUFiK0NFUWdxWCtLN2NqSHhOeGl2UFo1TXlYaWY0YW1kZ0lEOXVnNzFYRmd1aXVVY2E4SXV1UTl5ZTh6Qm9rbUdkS0prMTRvc3l1STVsMWhWS1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg0NTUyCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNDJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC40MgpNaGFjSFQyOTl5VlozaEppbzJOdFh5bFRTNzJTaXM5STY0QzZVbERxeHlYS3RHbU5nY1U5YTJTZUFkdlpXZk8xZUV4aG5MTDh0Q1F4MjVqZktXL2lBUT09Cg==",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/verification/tampered-setup.exe"
     }
   }
 }
