@@ -1,23 +1,27 @@
 {
-  "version": "1.0.49",
-  "notes": "Suvidha Diagnostics 1.0.49",
-  "pub_date": "2026-11-10T03:00:01.170Z",
+  "version": "1.0.52",
+  "notes": "Suvidha Diagnostics 1.0.52",
+  "pub_date": "2026-11-12T02:22:31.698Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelNtcEZ5akhZVGZJYmY1b05ZeGxRZUFvTU9uZ2xxYzgrUUU2eHcySFNudzRQM09TVVNFaWJnY0VMNjlBN2ZiaHdHUm92Tys4bWlwNXh1MjZSZU11Z1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc5NTA1CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNDlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC40OQpTWHh5S3J3VWxyNFJ5ZUdxMGhnSU1iZ3BkdytQWVlqeGdmc1F1STRISXA2Z09PS0RQNnBvbmhua2wza29wSERlaThhdHIyeEx0NVpVdE53NFpKZENCZz09Cg==",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.49/suvidha-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremJCdEY1KzhDRGpaU0VrdHB0ZkhTQ0VOeGRPWkptRDhzL3JwMTEyL01hRXNrZWhFTkJNajk5dFZpdEIxS0luQjhPR2ZPV3cyVWFrNnZwTURIOGNha2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUwMDkwCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC41MgpKUk9xaXhaUTJscTBuUUVzMldBb0Vjc0MwbzQyTVpGblMxemgzcGdEMW1LZkEwZVpwcHpxWTlqTEhTUUt6TzJ4Q0xneGpCVnFtc0xoNjlGSU9NQUVDUT09Cg==",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.52/suvidha-windows-x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelVUVU9oQ2l0WGdIaW5ocTFmRmcyWTNBVFh5ODJUcEtCRTYzM0RxZ0psNTZ1N1RwMEFqM1dlQ0l1YU12YmNKWjVpcUc0cVB4QzhDT1RuMzBJQW1zbmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc5MzY5CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljcy5hcHAudGFyLmd6CXZlcnNpb246MS4wLjQ5Ck1YTXpINHVGSmFibjlIcHhya2p6cEJNVzFrelRMOVY5dWNOU3R0Smg1ZDFsbWpBSU1Odzg0L1hNejVWWEp5bU9GNW5hbU0rNndGYm1MNGxBb0ZHWEJRPT0K",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.49/suvidha-macos-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremFXZStnSWpRV1p4bEREdjF1L29PdVFMQVQ3Y0czY2pJSlUvckFvYTRjeHZ4eDY4NlFmZ1FqdU1Xc2JGd2ZMekpoOGtvTkY3TWhuelFVbHZoaU1NZkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ5OTQxCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljcy5hcHAudGFyLmd6CXZlcnNpb246MS4wLjUyCmNIMlYvaitlNFM4cTRzU0RLQm5kanV0L3RjZ0dFTkRxY3lZWUthS1d1S1RXbVFlT2E3M3FsVWx2cGxVNldxRGgrU1M3a0ZDRjZpOTlVRVdEWTNZTEJ3PT0K",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.52/suvidha-macos-universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelVUVU9oQ2l0WGdIaW5ocTFmRmcyWTNBVFh5ODJUcEtCRTYzM0RxZ0psNTZ1N1RwMEFqM1dlQ0l1YU12YmNKWjVpcUc0cVB4QzhDT1RuMzBJQW1zbmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc5MzY5CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljcy5hcHAudGFyLmd6CXZlcnNpb246MS4wLjQ5Ck1YTXpINHVGSmFibjlIcHhya2p6cEJNVzFrelRMOVY5dWNOU3R0Smg1ZDFsbWpBSU1Odzg0L1hNejVWWEp5bU9GNW5hbU0rNndGYm1MNGxBb0ZHWEJRPT0K",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.49/suvidha-macos-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremFXZStnSWpRV1p4bEREdjF1L29PdVFMQVQ3Y0czY2pJSlUvckFvYTRjeHZ4eDY4NlFmZ1FqdU1Xc2JGd2ZMekpoOGtvTkY3TWhuelFVbHZoaU1NZkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ5OTQxCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljcy5hcHAudGFyLmd6CXZlcnNpb246MS4wLjUyCmNIMlYvaitlNFM4cTRzU0RLQm5kanV0L3RjZ0dFTkRxY3lZWUthS1d1S1RXbVFlT2E3M3FsVWx2cGxVNldxRGgrU1M3a0ZDRjZpOTlVRVdEWTNZTEJ3PT0K",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.52/suvidha-macos-universal.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremR1RnEySlVaNTBjenc3SUV2NmsyYS9TNDBXbnY1bEs3cCt3M1J2STRuOEV6Zk1Xek9uZVdUSXAyMWJBNUdZcFQ3VGtoTlY0Z1JUYTJ1VU1qbVdYN3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjc5NDU3CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNDlfYW1kNjQuQXBwSW1hZ2UKUkZpaGswaHZQMGxaUEdpOUM5VS9RYmkyNU1WVXhWemJOMTBHNHhPdjNwMlNtZTFRUVNSTktUcHRva1VZN2F6UFJiVmhidFdyUVFkMVMwMjUwT1lKQXc9PQo=",
-      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.49/suvidha-linux-x86_64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelc2VUlRTWwvYmVxeUtIK3paM1kwUFFlUDM2SXdZQmpVb2hqSVlTNThyMmtvT3dWY0QvWnRjMHA3S1plSmF0dWJxbjlrOHFjdHFMc3pGL1NMbGdwS2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUwMDA1CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNTJfYW1kNjQuQXBwSW1hZ2UKMXl1cGtQejhpRldldEtpU0F3RTZCNWxaYVZCSWVBYTRDNlRIUWkvNm1sbnVRRXFDQnpZTi9wQXgxUFR3bitCMEF2d215YTdoMjRZOXdxSVo5N2hEQ2c9PQo=",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.52/suvidha-linux-x86_64.AppImage"
+    },
+    "windows-verification-tampered-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremJCdEY1KzhDRGpaU0VrdHB0ZkhTQ0VOeGRPWkptRDhzL3JwMTEyL01hRXNrZWhFTkJNajk5dFZpdEIxS0luQjhPR2ZPV3cyVWFrNnZwTURIOGNha2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDUwMDkwCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC41MgpKUk9xaXhaUTJscTBuUUVzMldBb0Vjc0MwbzQyTVpGblMxemgzcGdEMW1LZkEwZVpwcHpxWTlqTEhTUUt6TzJ4Q0xneGpCVnFtc0xoNjlGSU9NQUVDUT09Cg==",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/verification/tampered-setup.exe"
     }
   }
 }
