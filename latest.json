@@ -1,11 +1,23 @@
 {
   "version": "1.0.56",
   "notes": "Suvidha Diagnostics 1.0.56",
-  "pub_date": "2026-11-13T07:31:51.130Z",
+  "pub_date": "2026-11-13T08:46:39.397Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlprelpWb2RGbHA5WjR6U2lCMW15clIxdTJTNUo2N1ZxbEMwc3dyR2g5ZjJDL09UM3E0V3A4TDlmck9hYXVwM0F0dytaeC9tMGdrR0JLeUdER2laM2llMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU1MDE0CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNTZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC41NgpXMlJpSHk3SW5iMmpXTHpLUjhtbCttZVp0Z0xvRk1uR3FTczZ4ZjgxNExFZk5aQ3BvMjZkWXZaVzd5WVp2N0lESFNHbzk2SFllbVp0Z0U1RjhzL1pDdz09Cg==",
       "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.56/suvidha-windows-x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremNHako2ei9qUWp3SmNOMU1nMm1LMDBYT0VBczc0UVVKNWlXN0tqeThsMEhMNmNCdUNNSTdBWVdPK0hxalZGMDBZNDVDdEZTMWZvYVljNDVjY213b1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU5MjUyCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljcy5hcHAudGFyLmd6CXZlcnNpb246MS4wLjU2CnFhL2Z4eHZrTWtLZ0UwemhrSDhUSnp5YjJReXQvR0FIOFBCcStremJRQ2kzbTlpOWhLKzRHdmViaEhHL3Uxa3pqNWNObDVLMDR4UFE1MWVDR2s5dENBPT0K",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.56/suvidha-macos-universal.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremNHako2ei9qUWp3SmNOMU1nMm1LMDBYT0VBczc0UVVKNWlXN0tqeThsMEhMNmNCdUNNSTdBWVdPK0hxalZGMDBZNDVDdEZTMWZvYVljNDVjY213b1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU5MjUyCWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljcy5hcHAudGFyLmd6CXZlcnNpb246MS4wLjU2CnFhL2Z4eHZrTWtLZ0UwemhrSDhUSnp5YjJReXQvR0FIOFBCcStremJRQ2kzbTlpOWhLKzRHdmViaEhHL3Uxa3pqNWNObDVLMDR4UFE1MWVDR2s5dENBPT0K",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.56/suvidha-macos-universal.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0wvRXVpYlpremN5T2dOMzdFZFRjaVpJNGQ5S0oreWN1cHhJdTJ3bnJtRzdWTzgxN3B3OGE3aGgyRGh2K2czV2NnYXU1VTFlcVY4WWU2UlZBcDBGZGFGZ0F0Y0p1NndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU5NTg3CWZpbGU6U3V2aWRoYSBEaWFnbm9zdGljc18xLjAuNTZfYW1kNjQuQXBwSW1hZ2UKNHVyQ1dXWDR0NGFTM3p3QlFEbUN6YmNwOUpoR1VvZ0ptTWVUKzJrU3MyR2o4eVV5b3dCSC9lWno4UmdIY0c3Qy80a29heUNRSldVa3lWcjlZc2IzQ0E9PQo=",
+      "url": "https://whysopriyank.github.io/suvidha-clinic-updates/installers/1.0.56/suvidha-linux-x86_64.AppImage"
     }
   }
 }
